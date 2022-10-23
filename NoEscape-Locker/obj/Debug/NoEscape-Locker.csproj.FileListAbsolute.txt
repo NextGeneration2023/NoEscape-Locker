@@ -1,0 +1,10 @@
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\bin\Debug\NoEscape-Locker.exe.config
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\bin\Debug\NoEscape-Locker.exe
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\bin\Debug\NoEscape-Locker.pdb
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape-Locker.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape_Locker.NoEscapeForm.resources
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape_Locker.Properties.Resources.resources
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape-Locker.csproj.GenerateResource.cache
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape-Locker.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape-Locker.exe
+C:\Users\VirusTest\source\repos\NoEscape-Locker\NoEscape-Locker\obj\Debug\NoEscape-Locker.pdb
